@@ -38,7 +38,7 @@ const products = [
 ];
 
 const categories = [
-  "Todos",
+  "All songs",
   "Pop",
   "MPB",
   "Forró",
